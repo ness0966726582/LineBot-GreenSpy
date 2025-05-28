@@ -1,8 +1,5 @@
-# LineBot-GreenSpy
-LINE 間諜幫你看地球
-
 # LineBot-GreenSpy 🌿📲
-
+## LINE 間諜幫你看地球
 一個結合 Google Earth Engine（GEE）、LINE Messaging API 與遙測資料的綠地指標查詢系統。  
 使用者只需在 LINE 上輸入行政區名稱（如「新北市」），即可即時獲得該區最新的綠地覆蓋率與 NDVI 地圖。
 
